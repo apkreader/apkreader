@@ -1,7 +1,9 @@
 <h3 align="center">Java / Android Developer and Reverse Engineer</h3>
 
 ###
-![apkreader's GitHub stats](https://github-readme-stats-sigma-nine-45.vercel.app/api?username=apkreader&show_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://github-readme-stats-sigma-nine-45.vercel.app/api?username=apkreader&show_icons=true&theme=transparent" alt="apkreader's GitHub stats">
+</div>
 
 ###
 
