@@ -19,11 +19,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.9.0](https://github.com/apkreader/JByteMod-Remastered/releases/tag/2.9.0) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
-2. 🎉 Merged PR [#7](https://github.com/qTechnologiesV2/qprotect-language/pull/7) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-3. 💪 Opened PR [#7](https://github.com/qTechnologiesV2/qprotect-language/pull/7) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-4. 🎉 Merged PR [#6](https://github.com/qTechnologiesV2/qprotect-language/pull/6) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-5. 💪 Opened PR [#6](https://github.com/qTechnologiesV2/qprotect-language/pull/6) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+1. 💪 Opened PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+2. 🚀 Published release [2.9.0](https://github.com/apkreader/JByteMod-Remastered/releases/tag/2.9.0) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+3. 🎉 Merged PR [#7](https://github.com/qTechnologiesV2/qprotect-language/pull/7) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+4. 💪 Opened PR [#7](https://github.com/qTechnologiesV2/qprotect-language/pull/7) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+5. 🎉 Merged PR [#6](https://github.com/qTechnologiesV2/qprotect-language/pull/6) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 <!--END_SECTION:activity-->
 
 ###
