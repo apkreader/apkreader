@@ -19,11 +19,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/sim0n/Caesium/pull/27) in [sim0n/Caesium](https://github.com/sim0n/Caesium)
-2. 💪 Opened PR [#9](https://github.com/qTechnologiesV2/qprotect-language/pull/9) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-3. 🎉 Merged PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-4. 💪 Opened PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-5. 🚀 Published release [2.9.0](https://github.com/apkreader/JByteMod-Remastered/releases/tag/2.9.0) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+1. 🗣 Commented on [#1](https://github.com/Zentro/XFDiscordCAProvider/pull/1#issuecomment-2564809424) in [Zentro/XFDiscordCAProvider](https://github.com/Zentro/XFDiscordCAProvider)
+2. 💪 Opened PR [#1](https://github.com/Zentro/XFDiscordCAProvider/pull/1) in [Zentro/XFDiscordCAProvider](https://github.com/Zentro/XFDiscordCAProvider)
+3. ❌ Closed PR [#27](https://github.com/sim0n/Caesium/pull/27) in [sim0n/Caesium](https://github.com/sim0n/Caesium)
+4. 💪 Opened PR [#9](https://github.com/qTechnologiesV2/qprotect-language/pull/9) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+5. 🎉 Merged PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 <!--END_SECTION:activity-->
 
 ###
