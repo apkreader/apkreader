@@ -19,8 +19,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-2. 🎉 Merged PR [#6](https://github.com/apkreader/JByteMod-Remastered/pull/6) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+1. 💪 Opened PR [#11](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+2. 💪 Opened PR [#10](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 3. ❌ Closed PR [#27](https://github.com/sim0n/Caesium/pull/27) in [sim0n/Caesium](https://github.com/sim0n/Caesium)
 4. 💪 Opened PR [#9](https://github.com/qTechnologiesV2/qprotect-language/pull/9) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 5. 🎉 Merged PR [#8](https://github.com/qTechnologiesV2/qprotect-language/pull/8) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
