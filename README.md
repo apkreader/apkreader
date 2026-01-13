@@ -19,9 +19,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/qTechnologiesV2/qprotect-language/pull/15) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-2. 💪 Opened PR [#15](https://github.com/qTechnologiesV2/qprotect-language/pull/15) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
-3. ❌ Merged PR [#14](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+1. 🚀 Published release [2.9.1](https://github.com/apkreader/JByteMod-Remastered/releases/tag/2.9.1) in [apkreader/JByteMod-Remastered](https://github.com/apkreader/JByteMod-Remastered)
+2. 🎉 Merged PR [#15](https://github.com/qTechnologiesV2/qprotect-language/pull/15) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
+3. 💪 Opened PR [#15](https://github.com/qTechnologiesV2/qprotect-language/pull/15) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 4. 💪 Opened PR [#14](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 5. ❌ Merged PR [#13](undefined) in [qTechnologiesV2/qprotect-language](https://github.com/qTechnologiesV2/qprotect-language)
 <!--END_SECTION:activity-->
